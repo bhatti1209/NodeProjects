@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"browser",
+				"browser-sync"
+			],
+			[
+				"scrp",
+				"scriptBundle"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"bro",
+				"browser-sync"
+			],
+			[
+				"Title",
+				"TitleCase"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"title",
+				"titleArray"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1420,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "MyProject/Css/Site.css",
+			"settings":
+			{
+				"buffer_size": 19,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "MyProject/Scripts/MyScripts/first.js",
+			"settings":
+			{
+				"buffer_size": 64,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "MyProject/View/index.html",
+			"settings":
+			{
+				"buffer_size": 312,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Mocha.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 207.0,
+		"history":
+		[
+			"subl --help",
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			" import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Programs/Git Repos/Node Projects/MyFirstGulp",
+		"/D/Programs/Git Repos/Node Projects/MyFirstGulp/MyProject",
+		"/D/Programs/Git Repos/Node Projects/MyFirstGulp/MyProject/Scripts/BuildOutput"
+	],
+	"file_history":
+	[
+		"/D/Programs/Git Repos/Sublime/LiveEdit/index.html",
+		"/D/Programs/Git Repos/Node Projects/MyFirstGulp/MyProject/Scripts/BuildOutput/myLibsBundle.min.js",
+		"/D/Programs/Git Repos/Node Projects/MyFirstGulp/MyProject/Css/Site.css",
+		"/D/Programs/Git Repos/Sublime/LiveEdit/GulpFile.js",
+		"/D/Programs/Git Repos/Node Projects/MyFirstGulp/MyProject/Scripts/MyScripts/first.js",
+		"/D/Programs/Git Repos/Node Projects/MyFirstGulp/MyProject/Scripts/BuildOutput/myScriptsBundle.min.js",
+		"/D/Programs/Git Repos/Node Projects/MyFirstGulp/MyProject/Scripts/MyScripts/second.js",
+		"/D/Programs/Git Repos/Node Projects/MyFirstGulp/package.json",
+		"/D/Programs/Git Repos/Sublime/LiveEdit/js/main.js",
+		"/D/Programs/Git Repos/Sublime/LiveEdit/scss/app.scss",
+		"/D/Programs/Git Repos/Sublime/LiveEdit/Scripts/main.js",
+		"/D/Programs/Git Repos/Sublime/LiveEdit/View/index.html",
+		"/D/Programs/Git Repos/Sublime/LiveEdit/css/app.css",
+		"/C/Users/bhara_000/AppData/Roaming/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/bhara_000/AppData/Roaming/Sublime Text 3/Packages/User/Mocha.sublime-build",
+		"/C/Users/bhara_000/AppData/Roaming/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/C/Users/bhara_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/bhara_000/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/bhara_000/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/D/Programs/Git Repos/Haskell/WhyHaskellIsGreat/Test.hs",
+		"/C/Users/bhara_000/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/D/Programs/Git Repos/Haskell/Chap 3/test.hs",
+		"/D/Programs/Git Repos/CodeKata/CalcStats/Node/main.js",
+		"/D/Programs/Git Repos/CodeKata/CalcStats/Node/test/test.js",
+		"/H/OS Stuff/Images/Windows 8.1 Pro/W81.ProVL.X64.MULTI6.Jan2014.txt",
+		"/D/Downloads/ZFPModifiedInclusion.txt",
+		"/D/Softwares/re-install-grub2.txt",
+		"/E/Download/OS/Windows 7 Serials (x86-x64).txt",
+		"/H/OS Stuff/Images/Windows 7/Windows.7.Loader.v1.8.3-DAZ/Read me.txt",
+		"/H/OS Stuff/Images/Windows 7/64-bit/Windows 7 Serials (x86-x64).txt",
+		"/E/Download/OS/Windows 8.1 Pro/W81.ProVL.X64.MULTI6.Jan2014.txt",
+		"/E/Download/OS/Windows 8.1 Pro/Microsoft Office  Windows Activator(KMSpico 9.2.2 RC)/ReadMe KMSpico Install.txt",
+		"/E/Download/Microsoft Office  Windows Activator(KMSpico 9.2.2 RC)/ReadMe KMSpico Install.txt",
+		"/C/Users/Bharat/AppData/Local/Microsoft/Windows/INetCache/IE/RQVQAQQS/ReadMe_KMSpico_Install[1].txt",
+		"/C/dell/drivers/NF03J/Version.txt",
+		"/E/Programs/Git Repos/Javascript/CodeWars/TitleCase/Test/test.js",
+		"/E/Programs/Git Repos/Javascript/CodeWars/TitleCase/TitleCase.js",
+		"/C/Users/Bharat/AppData/Roaming/Sublime Text 3/Packages/User/Mocha.sublime-build",
+		"/C/Users/Bharat/AppData/Roaming/Sublime Text 3/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/Bharat/AppData/Roaming/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/Bharat/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Bharat/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"});",
+			"\\",
+			"titleCase",
+			"firstWord",
+			";\n",
+			"s",
+			"titleArray",
+			"titleArray[0]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1205,
+								1205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 207.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "MyProject/Css/Site.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "MyProject/Scripts/MyScripts/first.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "MyProject/View/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 161.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MyFirstGulp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"first",
+				"MyProject\\Scripts\\MyScripts\\first.js"
+			],
+			[
+				"main",
+				"Scripts\\main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
