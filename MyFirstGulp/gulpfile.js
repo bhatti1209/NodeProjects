@@ -39,6 +39,12 @@ gulp.task('browser-sync', function(){
 			target: "localhost/MyFirstGulp/MyProject/View"
 		}
 	});
+
+	// browserSync.init(["MyProject/Css/*.css", "MyProject/Scripts/myScripts/first.js", "MyProject/Scripts/myScripts/second.js"], {
+	// 	proxy: {
+	// 		target: "localhost/MyFirstGulp/MyProject/View"
+	// 	}
+	// });
 });
 
 gulp.task('scripts', ['preBuild', 'myLibs', 'myScripts', 'browser-sync'], function (){
